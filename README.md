@@ -13,11 +13,11 @@
     <table>
         <tr>
             <td>pasăre, exotică</td>
-            <td>exotic, bird</td>
+            <td>pasăre, exotică</td>
         </tr>
         <tr>
             <td>pasăre, exotică</td>
-            <td>exotic, bird</td>
+            <td>pasăre, exotică</td>
         </tr>
     </table>
 </body>
